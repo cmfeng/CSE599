@@ -1,5 +1,6 @@
 # Feng
-## Homework from CSE 599 Software Development for Data Scientists
+## Homework from CSE 599 Software Development for Data Scientists  
+http://uwseds.github.io/
 ### Main content
 #### Developing software in a way that it can be used by others, including documentation, installing packages, automating setup, and running computational studies.
 #### Creating technical specifications for what a program should do (its use cases) and how this is accomplished (software design). Creating, updating, and sharing a project using version control (specifically GitHub).
